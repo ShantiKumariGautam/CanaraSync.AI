@@ -101,13 +101,7 @@ CanaraSync.AI is a privacy-first, AI-powered mobile app built to redefine securi
 4. Start the Development Server
    `npx expo start`
 
-5. This will open the Expo Dev Tools in your browser.
-
-Press i to run on iOS simulator (macOS only)
-
-Press a to run on Android emulator
-
-Or scan the QR code using the Expo Go app on your phone
+5. Scan the QR code using the Expo Go app on your phone.
 
 ## Usage Instructions
 
