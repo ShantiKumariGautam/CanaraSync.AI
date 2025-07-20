@@ -2,10 +2,6 @@
 
 **Security that Syncs with Your Every Move**
 
-CanaraSync.AI is a behavior-driven mobile banking security application designed to offer real-time, on-device threat detection using gesture-based behavioral authentication. Crafted with a privacy-first approach, it leverages TinyML models to continuously learn and identify the user based on unique interaction patterns like typing speed, scrolling style, touch dynamics, and location signals.
-
-With a focus on inclusive usability—especially for women, the elderly, and users of shared devices—CanaraSync.AI acts as your invisible layer of protection, ensuring secure and seamless banking experiences.
-
 ## Overview
 
 In the age of rapid digitalization, traditional banking security methods are no longer enough. CanaraSync.AI introduces a new paradigm in mobile banking security—one that learns, adapts, and protects based on *you*.
