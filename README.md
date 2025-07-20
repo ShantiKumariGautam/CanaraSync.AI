@@ -2,6 +2,9 @@
 
 **Security that Syncs with Your Every Move**
 
+Our project presentation on Canva:  
+[🔗 View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
+
 ## Overview
 
 In the age of rapid digitalization, traditional banking security methods are no longer enough. CanaraSync.AI introduces a new paradigm in mobile banking security—one that learns, adapts, and protects based on *you*.
