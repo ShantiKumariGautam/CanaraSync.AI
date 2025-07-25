@@ -135,68 +135,13 @@ CanaraSync.AI is a privacy-first, AI-powered mobile app built to redefine securi
 
 CanaraSync.AI is built with a forward-looking vision that extends beyond authentication. As we scale, the platform will evolve to become a holistic guardian of mobile security:
 
-### 1. Adaptive AI Personalization
-- Integrate continuous learning models that evolve with each user session.
-- Enable faster anomaly detection by refining user behavior profiles dynamically.
-
-### 2. Duress Gesture Detection
-- Introduce custom gestures to silently trigger SOS alerts under stress.
-- Support configurable gestures for user-defined emergency actions.
-
-### 3. Federated Learning Integration
-- Implement privacy-preserving AI through on-device federated learning.
-- Allow global model updates without compromising local user data.
-
-### 4. Hardware-Level Gesture Sensing
-- Utilize advanced sensors like accelerometer, gyroscope, and pressure detection.
-- Strengthen authentication accuracy on newer devices.
-
-### 5. Enterprise Integration
-- Provide SDKs and APIs for integration into mobile banking and fintech apps.
-- Offer CanaraSync.AI as a plug-and-play security module.
-
-### 6. Multi-User Support for Shared Devices
-- Enable seamless switching and detection of multiple users on a single device.
-- Use behavioral fingerprinting to maintain individual security profiles.
-
-### 7. Visual Dashboard and Risk Insights
-- Build an admin-friendly analytics dashboard for institutions.
-- Display real-time risk scores, user behavior heatmaps, and anomaly logs.
-
----
 
 > With privacy as our foundation and personalization as our strength, CanaraSync.AI is poised to redefine mobile security for a safer, smarter tomorrow.
 
 ## Unique Selling Proposition (USP)
 <p align="center">
-  <img src="assets/USP.jpg" alt="USP"/>
+  <img src="assets/USP.jpg" alt="USP" width="600"/>
 </p>
-
-
-
-
-## Relevance to the Hackathon Theme
-
-CanaraSync.AI directly aligns with the core objectives of the SuRaksha Cyber Hackathon, which aims to enhance digital safety, resilience, and user trust in critical applications like banking and finance.
-
-### Key Alignments:
-
-- **Behavior-Based Continuous Authentication**  
-  Traditional static credentials are no longer sufficient. Our solution ensures that authentication doesn’t stop at login — it continues silently, using user behavior as a key security metric.
-
-- **Privacy-First and On-Device AI**  
-  With increasing concerns around data leakage and misuse, CanaraSync.AI ensures all behavioral data is processed and stored locally on the device, aligning with privacy and data sovereignty goals.
-
-- **Offline Functionality for Inclusivity**  
-  Our solution is designed to function even in low-connectivity environments, enabling safer digital banking access for users in remote or rural areas — promoting inclusivity and digital empowerment.
-
-- **Real-Time Threat Detection**  
-  By identifying behavioral anomalies and triggering reauthentication or silent alerts, the app proactively prevents unauthorized access and potential fraud.
-
-- **Empowering Vulnerable Groups**  
-  Special emphasis is placed on usability for women, elderly users, and individuals using shared devices — supporting the broader mission of safe and accessible digital ecosystems.
-
----
 
 > CanaraSync.AI embodies the spirit of SuRaksha — **security that evolves with users, adapts to threats, and leaves no one behind**.
 
