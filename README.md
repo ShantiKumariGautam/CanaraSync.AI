@@ -3,7 +3,7 @@
 **Security that Syncs with Your Every Move**
 
 <p align="center">
-  <img src="assets/placeholder.png" width="1200"/>
+  <img src="assets/placeholder.png" width="300"/>
 </p>
 
 Our project presentation on Canva:  
