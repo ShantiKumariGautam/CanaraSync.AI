@@ -46,6 +46,12 @@ Whether you're banking from home, on-the-go, or in shared spaces, CanaraSync.AI 
 - **Privacy-First by Design**  
   No cloud storage, no external APIs—everything stays on your device. Even uninstalling the app clears all behavioral traces automatically.
 
+##  System Architecture
+
+<p align="center">
+  <img src="assets/CanaraSyncAI-HLD.png" alt="High Level Architecture"/>
+</p>
+
 ## Privacy & Compliance
 
 CanaraSync.AI is built with a strong commitment to user privacy, regulatory compliance, and ethical AI design. The app strictly adheres to the following principles and standards:
@@ -88,6 +94,13 @@ CanaraSync.AI is a privacy-first, AI-powered mobile app built to redefine securi
 ---
 
 *Designed for mobile-first security. Developed with care. Delivered with trust.*  
+
+
+##  Data Pipeline
+
+<p align="center">
+  <img src="assets/CanaraSyncAI_Data_Pipeline.png" alt="Data Pipeline"/>
+</p>
 
 ## Installation Guide
 
