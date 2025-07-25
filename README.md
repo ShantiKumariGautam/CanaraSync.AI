@@ -3,11 +3,12 @@
 **Security that Syncs with Your Every Move**
 
 <p align="center">
-  <img src="assets/placeholder.png" width="300"/>
+  <img src="assets/placeholder.png" width="400"/>
 </p>
 
 Our project presentation on Canva:  
-[🔗 View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
+ **Presentation:**  [🔗 View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
+ **Demo Video:** [Watch on YouTube]([https://youtu.be/MRuSDbewoB4](https://youtube.com/shorts/9ShZYinqyxA?si=QGwBkNNzLzwbnw4J))  
 
 ## Overview
 
@@ -140,7 +141,7 @@ CanaraSync.AI is built with a forward-looking vision that extends beyond authent
 
 ## Unique Selling Proposition (USP)
 <p align="center">
-  <img src="assets/USP.jpg" alt="USP" width="600"/>
+  <img src="assets/USP.jpg" alt="USP" width="1200"/>
 </p>
 
 > CanaraSync.AI embodies the spirit of SuRaksha — **security that evolves with users, adapts to threats, and leaves no one behind**.
