@@ -133,47 +133,6 @@ CanaraSync.AI is a privacy-first, AI-powered mobile app built to redefine securi
 > ⚠️ Ensure all required permissions (location, touch input, etc.) are enabled for full functionality.
 
 
-## Project Architecture
-
-The CanaraSync.AI project follows a modular architecture that separates concerns across frontend, behavioral logic, and local storage:
-
-### 1. **Frontend (React Native with Expo)**
-- Built using React Native and Expo for cross-platform compatibility.
-- UI components are organized screen-wise (Login, Profile, Home, QR Screen, etc.).
-- Navigation is managed using React Navigation with a bottom tab structure.
-
-### 2. **Gesture & Behavior Logger**
-- Custom hooks and gesture handlers log all user interactions:
-  - Tap, Scroll, Swipe
-  - Typing speed and backspace usage
-  - Session duration and gesture velocity
-- Data is enriched with contextual details like screen name, gesture type, and device model.
-
-### 3. **Local Storage (AsyncStorage)**
-- All user gesture and session data is stored in a centralized AsyncStorage key: `CanaraSyncData`.
-- Data is stored in JSON format and updated in real-time.
-- No cloud storage is used to maintain complete on-device privacy.
-
-### 4. **Behavioral Model (TinyML Ready)**
-- Behavioral data collected over the first 6 sessions is used to train a personalized anomaly detection model.
-- From the 7th session onwards, gestures are compared with the learned profile to detect anomalies.
-- Anomaly triggers reauthentication requests.
-
-### 5. **Location Integration**
-- Geolocation is fetched using Expo Location API.
-- Each session’s gestures are tagged with coordinates and timestamps to strengthen anomaly detection.
-
-### 6. **Security Layers**
-- Reauthentication triggered via anomaly detection.
-- Silent SOS and duress gesture detection planned for future integration.
-- No internet dependency: app works offline to maintain security even in low-connectivity zones.
-
----
-
-> This architecture ensures real-time, privacy-first behavioral authentication on mobile devices, tailored for women, elderly, and shared-device users.
-
-## Future Scope and Scalability
-
 CanaraSync.AI is built with a forward-looking vision that extends beyond authentication. As we scale, the platform will evolve to become a holistic guardian of mobile security:
 
 ### 1. Adaptive AI Personalization
@@ -209,27 +168,12 @@ CanaraSync.AI is built with a forward-looking vision that extends beyond authent
 > With privacy as our foundation and personalization as our strength, CanaraSync.AI is poised to redefine mobile security for a safer, smarter tomorrow.
 
 ## Unique Selling Proposition (USP)
+<p align="center">
+  <img src="assets/USP.jpg" alt="USP"/>
+</p>
 
-CanaraSync.AI brings a distinctive blend of innovation, privacy, and intelligent adaptation to mobile security. Unlike traditional one-time authentication models, our solution continuously learns from user behavior — making authentication fluid, seamless, and secure.
 
-### 🔹 Unique Aspects of the Solution
-- **Behavioral Biometrics**: Leverages tap dynamics, scroll patterns, and typing rhythm to build a personalized user signature.
-- **Offline Support**: Operates seamlessly even in low or no internet environments — ideal for rural and remote users.
-- **Session-Based Learning**: Gathers and adapts to user behavior across sessions for better accuracy and anomaly detection.
 
-### 🔹 Innovation and Creativity
-- **On-Device AI with TinyML**: Lightweight models run locally without depending on the cloud, ensuring real-time performance and privacy.
-- **Duress Gesture Triggers**: Allows predefined subtle gestures to trigger silent SOS alerts — a novel approach to under-pressure security.
-- **Fake UI Shielding**: Decoy screens can be shown during suspicious interactions to protect user data under threat.
-
-### 🔹 Security, Performance & Integration Strength
-- **Zero Data Exposure**: All data is stored locally with no upload to external servers.
-- **Realtime Threat Response**: Flags unusual behavior and prompts reauthentication without interrupting the user experience.
-- **Modular Integration**: Can be embedded into existing fintech or banking apps through SDKs or APIs.
-
----
-
-> CanaraSync.AI isn't just an app — it's a silent guardian, adapting to you, learning from you, and protecting you with every gesture.
 
 ## Relevance to the Hackathon Theme
 
