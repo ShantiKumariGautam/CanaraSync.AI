@@ -2,6 +2,10 @@
 
 **Security that Syncs with Your Every Move**
 
+<p align="center">
+  <img src="assets/placeholder.png" width="1200"/>
+</p>
+
 Our project presentation on Canva:  
 [🔗 View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
 
