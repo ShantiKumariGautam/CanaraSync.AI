@@ -6,9 +6,10 @@
   <img src="assets/placeholder.png" width="400"/>
 </p>
 
-Our project presentation on Canva:  
- **Presentation:**  [🔗 View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
- **Demo Video:** [Watch on YouTube]([https://youtu.be/MRuSDbewoB4](https://youtube.com/shorts/9ShZYinqyxA?si=QGwBkNNzLzwbnw4J))  
+ ## 🔗 Demo & Presentation
+
+- **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/9ShZYinqyxA?si=QGwBkNNzLzwbnw4J)  
+- **Presentation:** [View Presentation](https://www.canva.com/design/DAGqP_UtHCs/kbbzkFCc1CI4zbKwpm6FKg/edit)
 
 ## Overview
 
